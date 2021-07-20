@@ -1,5 +1,5 @@
 float32 position
 float32 velocity
 float32 current
-uint8 commandFlag
-float32 R_jnt
+uint8 command_flag
+float32 r_jnt
